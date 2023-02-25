@@ -4,6 +4,8 @@
  */
 package ejemplogit;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author sjbla
@@ -15,8 +17,15 @@ public class main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+<<<<<<< Updated upstream
         int i = 0; //Cambio por Steven Blanco
+<<<<<<< HEAD
+=======
+        JOptionPane.showMessageDialog(null, "Hola"); //cambio por Steven
+>>>>>>> Stashed changes
+=======
         int h =0;
+>>>>>>> dede9f4e334d4003f8859ae9a0aae9bd5e1f1f5e
     }
     
 }
