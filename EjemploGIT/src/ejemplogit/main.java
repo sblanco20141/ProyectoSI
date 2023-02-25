@@ -15,9 +15,8 @@ public class main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
-        
-        int test = 02; // This is a test Pablo Flores
+        int i = 0; //Cambio por Steven Blanco
+        int h =0;
     }
     
 }
