@@ -17,7 +17,7 @@ public class main {
         // TODO code application logic here
         
         
-        int test = 02; // This is a test Panblo Flores
+        int test = 02; // This is a test Pablo Flores
     }
     
 }
